@@ -1,0 +1,10 @@
+add_operation number input field
+ticket number input field
+ticket validation
+buttons 
+footer-links
+angular.js
+	selecting the amount
+	two way data binding
+CONTACT US PAGE
+group booking
